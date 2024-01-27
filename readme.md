@@ -1,6 +1,6 @@
 ### CEIL
 
-CEIL ur financial future
+CEIL your financial future
 
 FERN:
 Firebase: Database
